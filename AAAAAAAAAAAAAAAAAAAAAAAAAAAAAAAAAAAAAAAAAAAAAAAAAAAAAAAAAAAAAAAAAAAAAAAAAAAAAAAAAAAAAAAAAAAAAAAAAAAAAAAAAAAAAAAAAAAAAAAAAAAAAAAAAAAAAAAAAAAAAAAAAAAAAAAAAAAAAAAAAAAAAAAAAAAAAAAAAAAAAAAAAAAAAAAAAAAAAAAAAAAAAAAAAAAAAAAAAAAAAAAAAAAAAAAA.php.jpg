@@ -1,6 +1,7 @@
 <?php
-system('whoami');
+system('pwd');
+system('cd ..');
+system('ls -l');
 system('cat index');
 system('cat index.php');
-system('ls -l');
 ?>
