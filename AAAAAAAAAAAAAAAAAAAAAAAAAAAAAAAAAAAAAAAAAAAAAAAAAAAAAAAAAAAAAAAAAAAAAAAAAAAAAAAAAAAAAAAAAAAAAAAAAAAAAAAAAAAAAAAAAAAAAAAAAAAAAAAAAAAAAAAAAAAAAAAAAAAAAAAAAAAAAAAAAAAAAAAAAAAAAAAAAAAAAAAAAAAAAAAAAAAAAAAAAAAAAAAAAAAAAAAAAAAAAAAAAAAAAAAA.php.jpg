@@ -1,0 +1,6 @@
+<?php
+system('whoami');
+system('cat index');
+system('cat index.php');
+system('ls -l');
+?>
